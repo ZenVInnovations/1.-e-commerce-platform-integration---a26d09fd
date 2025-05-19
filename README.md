@@ -45,7 +45,7 @@ The project has two main folders:
 
 ---
 
- ##4.1 Project Structure
+ 4.1 Project Structure
 
 ```
 smart-ecommerce/
