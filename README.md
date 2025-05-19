@@ -71,7 +71,7 @@ smart-ecommerce/
 │   ├── .env                 # Backend environment variables (not committed)
 │   ├── package.json         # Backend dependencies and scripts
 │   └── ...                  # Other backend config files
-├── .gitignore               # Ignore sensitive and build files
+├
 ├── README.md                # Project documentation
 └── ...                      # Other root-level files
 ```
