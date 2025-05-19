@@ -36,7 +36,7 @@
 
 ```sh
 git clone https://github.com/shashank1210/e-commerce.git
-cd e-commerce
+cd Docs
 ```
 
 The project has two main folders:
@@ -102,7 +102,7 @@ Open your terminal and run:
 
 ```sh
 git clone https://github.com/shashank1210/e-commerce.git
-cd e-commerce
+cd Docs
 ```
 
 ---
