@@ -35,8 +35,9 @@
 ## 4. Cloning the Project
 
 ```sh
-git clone https://github.com/shashank1210/e-commerce.git
+https://github.com/ZenVInnovations/1.-e-commerce-platform-integration---a26d09fd.git
 cd Docs
+cd SMart-ecommerce
 ```
 
 The project has two main folders:
@@ -101,8 +102,9 @@ You will also need accounts for:
 Open your terminal and run:
 
 ```sh
-git clone https://github.com/shashank1210/e-commerce.git
+https://github.com/ZenVInnovations/1.-e-commerce-platform-integration---a26d09fd.git
 cd Docs
+cd SMart-ecommerce
 ```
 
 ---
